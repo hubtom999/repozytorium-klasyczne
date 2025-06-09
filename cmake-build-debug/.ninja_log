@@ -1,0 +1,6 @@
+# ninja log v5
+21	775	7711633882408026	CMakeFiles/Inheritance.dir/Rectangle.cpp.obj	dd0d0698950df1df
+1	800	7711633882398489	CMakeFiles/Inheritance.dir/main.cpp.obj	68d0c00275e003c7
+16	802	7711633882788888	CMakeFiles/Inheritance.dir/Square.cpp.obj	6b2a5f3716543d39
+10	807	7711633882722040	CMakeFiles/Inheritance.dir/Figure.cpp.obj	1a08eb777953fe7c
+808	1195	7711633886882887	Inheritance.exe	3cf19cb86cb7f7e5
